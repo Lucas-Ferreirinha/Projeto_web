@@ -1,0 +1,56 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+h2{
+    font-weight: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+label{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+}
+
+#titulo{
+text-align: center;
+margin-bottom: 3rem;
+}
+img{
+    margin: auto;
+    display: block;
+    border: solid 3px black;
+    height: 20rem;
+    width: 25rem;
+    margin-bottom: 8rem;
+}
+body{
+    background-color: aliceblue;
+}
+
+.perguntas{
+    margin-top: 4.5rem;
+}
+
+#botaoResultado{
+    margin-top: 3rem;
+    display: flex;
+    justify-content: center;
+}
+div button{
+    color: rebeccapurple;
+    padding: 1.5rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.5rem;
+    border: solid rebeccapurple 0.3rem;
+    border-radius: 0.7rem;
+    background-color: lightgrey;
+}
+#resultado{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: auto;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 1.3rem;
+    
+
+}
