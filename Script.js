@@ -23,7 +23,7 @@ function testar() {
     });
 
     // Mostra os resultados na página
-    let resultado = `Naruto: ${contNaruto}<br>Sasuke: ${contSasuke}<br>Sakura: ${contSakura}<br>Kakashi: ${contKakashi}<br>`;
+    let resultado = `Naruto: ${contNaruto*10}%<br>Sasuke: ${contSasuke*10}%<br>Sakura: ${contSakura*10}%<br>Kakashi: ${contKakashi*10}%<br>`;
     document.getElementById("resultado").innerHTML = resultado;
 
     // Salva os resultados no localStorage (opcional)
