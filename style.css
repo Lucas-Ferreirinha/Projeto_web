@@ -173,12 +173,12 @@ body {
         width: 15rem;
     }
 
-    #container {
-        flex-direction: column;
-        align-items: center;
+    body{
+        background-color: antiquewhite;
+        background-image: none;
     }
 
-    #allContent {
-        width: 90%;
+    #allContent{
+        border: none;
     }
 }
