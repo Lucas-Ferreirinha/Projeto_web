@@ -37,7 +37,7 @@ div p {
 }
 
 body {
-    background-color: beige;
+    background-image: url(img/time7Fundo.jpg);
     display: flex;
     justify-content: center;
     align-items: center;
